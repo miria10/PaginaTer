@@ -1,0 +1,67 @@
+body
+{
+    background-color: rgb(220, 20, 130);
+}
+
+.lg{
+    width: 2000px;
+    height: 350px;
+
+}    
+.rH{
+
+    width: 300px;
+    height: 300px;
+    margin: 0 30px;
+
+}
+
+.rM{
+
+    width: 300px;
+    height: 300px;
+    margin: 0 10px;
+
+}
+
+.rNN{
+
+    width: 300px;
+    height: 300px;
+    margin: 0 10px;
+}
+
+.rBB{
+
+    width: 300px;
+    height: 300px;
+    margin: 0 10px;
+}
+
+.Cal{
+
+    width: 300px;
+    height: 300px;
+    margin: 0 10px;
+}
+
+.Acces{
+
+    width: 300px;
+    height: 300px;
+    margin: 0 10px;
+}
+
+.TODO{
+    display:inline-flex;
+
+
+}
+
+.A{
+    color: black;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+
